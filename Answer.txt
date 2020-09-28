@@ -1,0 +1,1 @@
+Add means adding it to the staging area, while commits means moving it from staging area to local repository (can have a message to state the changes made) and push means moving/applying/uploading it from local repository to remote repository.
